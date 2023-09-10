@@ -7,7 +7,7 @@ This bot is a practice project and not fully optimised yet . If it fails to give
 # Don't ask in this way - "What is earth ?"
 # Ask in this way - "earth"
 
-# ** Quotes ("") are used to make the questions easily readable , please don't use them while asking questions from bot. **
+** Quotes ("") are used to make the questions easily readable , please don't use them while asking questions from bot. **
 # Tech Stacks Used :
 1. For Frontend :- Html , CSS , JavaScript , react.js
 2. For Backend :- Firebase
